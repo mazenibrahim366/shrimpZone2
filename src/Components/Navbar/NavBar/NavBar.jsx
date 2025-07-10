@@ -22,7 +22,7 @@ export default function NavBar() {
     <div className="shadow-md bg-main z-50 sticky top-0">
       <Navbar fluid rounded className="bg-main text-sec container mx-auto py-2">
 
-        <NavbarBrand href="/" className="flex items-center gap-2 w-56">
+        <NavbarBrand  className="flex items-center gap-2 w-56">
           <img
             src={imgLogo}
             className="h-10"
